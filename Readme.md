@@ -6,7 +6,7 @@
 </p>
 <br>
 <div>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenrider784&theme=dark" alt="praveenrider784" /></div>
+<img align="center" padding="20px"src="https://github-readme-streak-stats.herokuapp.com/?user=praveenrider784&theme=dark" alt="praveenrider784" /></div>
 
 
 
