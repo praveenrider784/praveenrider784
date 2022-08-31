@@ -5,8 +5,8 @@
   
 </p>
 <br>
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhardha123&theme=dark" alt="Siddhardha123" /></p>
+<div>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenrider784&theme=dark" alt="praveenrider784" /></div>
 
 
 
